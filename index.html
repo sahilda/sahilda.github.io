@@ -2,14 +2,12 @@
 layout: default
 title: Me
 ---
-<div class="header">Hey, welcome. I wanted to carve out a part of the internet that belongs to me. I hope to add more content.</div>
 
 <ul>
   {% for post in site.posts %}
   <l1 class="listItem">
     <h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    &nbsp;
-    <div class="date">{{ post.date | date_to_string }}</div>
+    <div class="date">{{ post.date | date_to_long_string: "ordinal", "US" }}</div>
   </l1>
   {% endfor %}
 </ul>
