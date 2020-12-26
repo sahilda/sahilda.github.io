@@ -7,7 +7,7 @@ title: Me
   {% for post in site.posts %}
   <l1 class="listItem">
     <h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <div class="date">{{ post.date | date_to_long_string: "ordinal", "US" }}</div>
+    <div class="date">{{ post.date | date_to_string: "ordinal", "US" }}</div>
   </l1>
   {% endfor %}
 </ul>

@@ -1,6 +1,7 @@
 ---
 layout: post
 author: sahil
+title: Sequoia and Death Valley
 ---
 
 Amidst the backdrop of 2020 and the pandemic, I was able to make a road trip with Steph around a couple National Parks nearby in CA. The trip started off by picking Steph up from LAX, grabbing lunch (not so good!), buying some groceries, dropping off pie to Will and Jenny, before finally making our way north towards Sequoia National Park and Death Valley afterwards. In total, we drove over a 1,100 miles and for more than 20 hours.
